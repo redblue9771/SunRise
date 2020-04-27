@@ -1,0 +1,64 @@
+{
+  "name": "create-react-app-with-typescript",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.14",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.53",
+    "classnames": "^2.2.6",
+    "firebase": "^7.14.4",
+    "lodash": "^4.17.15",
+    "moment": "^2.25.3",
+    "node-sass": "^4.12.0",
+    "notistack": "^0.9.16",
+    "prop-types": "^15.7.2",
+    "react": "0.0.0-experimental-33c3af284",
+    "react-dom": "0.0.0-experimental-33c3af284",
+    "react-grid-layout": "^0.18.3",
+    "react-perfect-scrollbar": "^1.5.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "latest",
+    "reactfire": "^2.0.3",
+    "recharts": "^1.8.5",
+    "recompose": "^0.30.0",
+    "underscore": "^1.9.1",
+    "use-http": "^1.0.12",
+    "validate.js": "^0.13.1"
+  },
+  "devDependencies": {
+    "@firebase/testing": "^0.19.4",
+    "@types/classnames": "^2.2.9",
+    "@types/jest": "^24.0.15",
+    "@types/lodash": "^4.14.151",
+    "@types/node": "^12.12.39",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react-grid-layout": "^0.17.1",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/recharts": "^1.8.10",
+    "@types/recompose": "^0.30.6",
+    "@typescript-eslint/eslint-plugin": "^2.33.0",
+    "@typescript-eslint/parser": "^2.33.0",
+    "eslint": "^6.8.0",
+    "typescript": "^3.9.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
